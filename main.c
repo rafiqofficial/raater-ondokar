@@ -1,7 +1,7 @@
 #include "raylib.h"
 
 int main(void) {
-    InitWindow(800, 600, "Loadshedding");
+    InitWindow(800, 600, "Raater Ondokar");
     SetTargetFPS(60);
 
     while (!WindowShouldClose()) {
